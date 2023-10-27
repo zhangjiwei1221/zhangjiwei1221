@@ -1,16 +1,15 @@
-### Hi there 👋
+﻿### Hi, I'm zhangjiwei👋
+>I am a Java Programmer from China.
 
-<!--
-**zhangjiwei1221/zhangjiwei1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏡 Blog：<a href="https://juejin.cn/user/3350967174567352/" target="_blank">zhangjiwei</a>
+- 💬 Mail：[1945192314@qq.com](1945192314@qq.com)
 
-Here are some ideas to get you started:
+###  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=zhangjiwei1221&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
+
+![](https://raw.githubusercontent.com/zhangjiwei1221/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/zhangjiwei1221/github-stats-transparent/output/generated/languages.svg)
+
+### ⚡ Visitor count
+![](https://profile-counter.glitch.me/zhangjiwei1221/count.svg)
