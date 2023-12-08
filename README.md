@@ -8,8 +8,7 @@
 
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=zhangjiwei1221&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
 
-![](https://raw.githubusercontent.com/zhangjiwei1221/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/zhangjiwei1221/github-stats-transparent/output/generated/languages.svg)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangjiwei1221&layout=compact&langs_count=8&theme=bear&hide_border=true)
 
 ### ⚡ Visitor count
 ![](https://profile-counter.glitch.me/zhangjiwei1221/count.svg)
